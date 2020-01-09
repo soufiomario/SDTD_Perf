@@ -4,7 +4,6 @@ Kubernetes Perfdash (performance dashboard) is a web UI that collects and displa
 performance metrics. Performance metrics are created based on performance test
 results for different nodes numbers, platform types and platform versions.
 
-Perfdash is available at http://perf-dash.k8s.io/
 
 ## Supported metrics
 
